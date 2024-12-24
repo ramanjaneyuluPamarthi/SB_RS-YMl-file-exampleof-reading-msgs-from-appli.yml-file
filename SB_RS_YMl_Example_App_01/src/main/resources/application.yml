@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: SB_RS_YMl_Example_App_01
+server:
+  port: 9090
+#Configuring to read msgs from yml file to controller
+app:
+  welcomeMsg: Welcome to Hyd...
+  greetMsg: Hi...
